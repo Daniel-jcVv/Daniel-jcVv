@@ -1,8 +1,19 @@
 # Hi there 👋
 
-# Juan Daniel Garcia Belman | Data Engineer | Data Analyst
+# I'm Juan Daniel Garcia Belman 
+
+| Data Engineer | Data Analyst
   
-![Status](https://img.shields.io/badge/Status-Actively%20seeking%20new%20opportunities-brightgreen)
+![Status](https://img.shields.io/badge/Status-Actively%20seeking%20new%20opportunities-lightgreen?style=flat)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-blue?style=flat)
+![T-SQL](https://img.shields.io/badge/T--SQL-Stored%20Procedures-orange?style=flat)
+![Architecture](https://img.shields.io/badge/Architecture-Medallion-lightgrey?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)
+
 
 ### 👋 About Me
  
