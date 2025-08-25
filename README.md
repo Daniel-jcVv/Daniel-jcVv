@@ -21,7 +21,10 @@ A results-oriented Data Engineer with 3+ years of experience designing and imple
  
 | Project | Description | Status |
 |---      |---          |---     |
-| **Enterprise Data Warehouse** | A complete DWH solution for a retail company using Medallion Architecture. ![Status(https://img.shields.io/badge/Status-In%20Development-orange) |
+| **Enterprise Data Warehouse** | An end-to-end Data Warehouse project showcasing best practices in data
+     engineering. It processes raw CRM and ERP data through a Bronze, Silver, and
+     Gold layer architecture, culminating in a Star Schema dimensional model
+     optimized for retail analytics and business intelligence reporting. | ![Status(https://img.shields.io/badge/Status-In%20Development-orange) |
 | **Project 2** | ... | ![Status](https://img.shields.io/badge/Status-Completed-green)|
 
 ### 📫 How to Reach Me
