@@ -1,4 +1,4 @@
-# Juan Daniel Garcia Belman | Data Engineer & Data Analyst
+# Juan Daniel Garcia Belman | Data Engineer | Data Analyst
  
 ![Status](https://img.shields.io/badge/Status-Actively%20seeking%20new%20opportunities-lightgreen?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)
