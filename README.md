@@ -1,21 +1,21 @@
 <div align="center">
 
-  # Juan Daniel García Belman
-  ## 🔧 Data Engineer | 📊 Data Analyst | ☁️ Data Integration
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badg
-  e&logo=vercel)](https://danieljcvv-portfolio.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&lo
-  go=linkedin)](https://www.linkedin.com/in/juan-daniel-garcía-belman-99a298aa)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gma
-  il)](mailto:danielgb331@outlook.com)
-
-  ![Status](https://img.shields.io/badge/Status-Actively%20seeking%20new%20opportunities-b
-  rightgreen?style=flat-square)
-  ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=flat-squ
-  are)
-  ![Location](https://img.shields.io/badge/Location-Celaya,%20M%C3%A9xico-red?style=flat-s
-  quare)
+    # Juan Daniel García Belman
+    ## 🔧 Data Engineer | 📊 Data Analyst | ☁️ Data Integration
+  
+    [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badg
+    e&logo=vercel)](https://danieljcvv-portfolio.vercel.app)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&lo
+    go=linkedin)](https://www.linkedin.com/in/juan-daniel-garcía-belman-99a298aa)
+    [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gma
+    il)](mailto:danielgb331@outlook.com)
+  
+    ![Status](https://img.shields.io/badge/Status-Actively%20seeking%20new%20opportunities-b
+    rightgreen?style=flat-square)
+    ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=flat-squ
+    are)
+    ![Location](https://img.shields.io/badge/Location-Celaya,%20M%C3%A9xico-red?style=flat-s
+    quare)
 
   </div>
 
