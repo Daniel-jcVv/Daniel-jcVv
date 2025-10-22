@@ -156,7 +156,7 @@
 
 ## 🔬 Emerging Technologies
 
-**Currently researching and implementing:**
+>**Currently researching and implementing:**
 >
 >🤖 **Text-to-SQL with LLMs:** Natural language queries for business users
 >📊 **dbt Semantic Layer:** Modern data transformation and documentation
@@ -168,15 +168,18 @@
 
 ## 🌐 Languages
 
->**English:** Intermediate Level - Technical reading, documentation, and professional communication
->**Spanish:** Native
+**English:** Intermediate Level - Technical reading, documentation, and professional communication
+
+**Spanish:** Native
 
 ---
 
 ## 📈 Current Focus
 
 🔥 **Actively seeking new opportunities** in Data Engineering or Data Analyts roles
+
 📚 **Learning:** Advanced MLOps, Kafka streaming, Apache Iceberg, AI-powered data engineering
+
 🎯 **Goal:** Lead enterprise data transformation initiatives and intelligent automation
 
 ---
@@ -186,7 +189,9 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge)](https://danieljcvv-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/juan-daniel-garcía-belman-99a298aa)
+
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/juan-daniel-garcía-belman-99a298aa)  
+
 [![Email](https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge)](mailto:danielgb331@outlook.com)
 
 </div>
@@ -196,6 +201,7 @@
 <div align="center">
 
 **"Data engineering is the art of turning chaos into clarity."** 🔄✨
+
 **Ora et labora, ahora**
 
 
