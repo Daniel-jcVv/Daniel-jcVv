@@ -157,26 +157,26 @@
 ## 🔬 Emerging Technologies
 
 **Currently researching and implementing:**
-
-🤖 **Text-to-SQL with LLMs:** Natural language queries for business users
-📊 **dbt Semantic Layer:** Modern data transformation and documentation
-🎨 **n8n Workflow Automation:** Visual ETL pipeline orchestration
-🔍 **Vector Databases:** Semantic search for data catalogs and metadata
-⚡ **MLOps Integration:** MLflow for data pipeline monitoring and experimentation
+>
+>🤖 **Text-to-SQL with LLMs:** Natural language queries for business users
+>📊 **dbt Semantic Layer:** Modern data transformation and documentation
+>🎨 **n8n Workflow Automation:** Visual ETL pipeline orchestration
+>🔍 **Vector Databases:** Semantic search for data catalogs and metadata
+>⚡ **MLOps Integration:** MLflow for data pipeline monitoring and experimentation
 
 ---
 
 ## 🌐 Languages
 
-**English:** Intermediate Level - Technical reading, documentation, and professional communication
-**Spanish:** Native
+>**English:** Intermediate Level - Technical reading, documentation, and professional communication
+>**Spanish:** Native
 
 ---
 
 ## 📈 Current Focus
 
 🔥 **Actively seeking new opportunities** in Data Engineering or Data Analyts roles
-📚 **Learning:** Advanced MLOps, Kafka streaming, AI-powered data engineering
+📚 **Learning:** Advanced MLOps, Kafka streaming, Apache Iceberg, AI-powered data engineering
 🎯 **Goal:** Lead enterprise data transformation initiatives and intelligent automation
 
 ---
@@ -196,7 +196,7 @@
 <div align="center">
 
 **"Data engineering is the art of turning chaos into clarity."** 🔄✨
+**Ora et labora, ahora**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Daniel-jcVv&color=brightgreen&style=flat-square)
 
 </div>
