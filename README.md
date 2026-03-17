@@ -16,13 +16,8 @@
 
 ## 👨‍💻 About Me
 
-**AI Data Automation Engineer** with over 4 years of professional experience. I specialize in building **autonomous data ecosystems** that bridge the gap between traditional Data Engineering and the new era of **Agentic AI**.
-
-My mission is to help companies reduce **operational debt** by transforming manual, repetitive processes into scalable, self-evolving solutions using **n8n**, **Python**, and **AI Agents**.
-
-🚀 **Automation First**: Orchestrating intelligent workflows that act upon data in real-time.
-🏗️ **Robust Foundations**: Expert in **Medallion Architecture** (Bronze/Silver/Gold) on **Databricks**.
-🛡️ **Mission-Critical**: Focused on high-density infrastructure monitoring and 24/7 technical operations.
+**AI Data Automation and Data Engineer** with over 4 years of professional experience supporting Fortune 500 clients (Telcel, Citi Banamex).
+Hands-on in pipeline operations, multi-environment deployment, data reconciliation, and metadata governance. Currently building AI automation workflows with n8n and Python and Agentic AI.
 
 ---
 
@@ -38,66 +33,76 @@ My mission is to help companies reduce **operational debt** by transforming manu
 ### **Data Engineering & Architecture**
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![SQL & Schema Design](https://img.shields.io/badge/SQL_Architecture-025E8C?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Flow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 ### **Cloud & DevOps**
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🚀 **AI Automation Specialist** | *Independent Consultant*
-📅 **April 2025 – Present**
+### Freelance AI Automation Projects | *Independent*
+**May 2025 – Present**
+- AI voice sales agent for hardware distributor — inventory lookup + order tracking 24/7 (n8n, Docker)
+- Automated fuel cost optimizer — scrapes 100+ gas stations, delivers top-3 via dashboard (n8n, Python)
 
-- **Autonomous Monitoring:** Building n8n ecosystems for real-time infrastructure supervision. 
-- **Agentic Workflows:** Designing AI Agent swarms to bridge hardware status and intelligent incident response.
-- **Data Modernization:** Consulting on Medallion Architecture implementation for startups and enterprise clients.
+### ETL Pipeline Operations — NTT DATA | *Telcel Client*
+**May 2024 – Apr 2025**
+- Operated 150+ ADF pipelines processing 5M+ daily records; ingesting 500-600 .unl files via SFTP into ADLS Gen2 with Get Metadata validation against .verf control files, resolving failures on 24/7 on-call rotation
+- Executed daily reconciliation through Databricks notebooks (SQL + PySpark) on Job clusters, applying MERGE on Delta tables and validating control figures via Azure SQL stored procedures
+- Maintained CI/CD workflow through Azure DevOps Git integration, promoting pipelines across environments via ARM templates with naming conventions.
 
-### 🏢 **NTT DATA - Data Engineer** | *Telcel & Citi Banamex*
-📅 **February 2021 – April 2025**
+### Metadata Governance Analyst — NTT DATA | *Citi Banamex Client*
+**Feb 2023 – May 2024**
+- Maintained naming standards across Raw/Staging/Curated layers in ADLS Gen2; used Unity Catalog for lineage tracking, tagging policies, and naming compliance validation
+- Processed metadata change requests via JIRA, running SQL-based validation against DAMA DMBOK conventions; maintained CNBV regulatory documentation in Confluence
 
-- **Enterprise ETL:** Managed high-volume data pipelines for the telecommunications and banking sectors.
-- **Automation:** Developed Python and Shell script solutions for automated metadata validation and monitoring.
-- **Scalability:** Optimized complex SQL queries and PySpark transformations, reducing processing times by 30%.
-- **Governance:** Implemented data quality frameworks and lineage standards in multi-cloud environments.
+### Data Analyst — NTT DATA | *Citi Banamex Client*
+**Feb 2022 – Feb 2023**
+- Analyzed banking financial datasets using SQL/Excel for data reconciliation; built 10+ Power BI dashboards (DAX) for executive reporting
+- Automated monthly validation of 500+ data attributes with Python (OpenPyXL, pyodbc), reducing processing time from 8 hours to 45 minutes
 
----
-
-## 🚀 Featured AI & Data Projects
-
-### 🏥 [Autonomous DataCenter AI Monitor](https://github.com/Daniel-jcVv/DataCenter-AI-Monitor) 🧪 *Flagship*
-> **Mission-critical monitoring using n8n and AI Agents to ensure 24/7 uptime.**
-- **Impact:** Automated anomaly detection and hardware-to-incident response loops.
-
-### 🏥 [AI Agent Healthcare Assistant](https://github.com/Daniel-jcVv/rag-healthcare-assistant)
-> **Autonomous medical Q&A platform with Agentic RAG retrieval.**
-- **Tech:** LangChain, Vector Databases, Python, OpenAI.
-
-### 🏗️ [Enterprise DW - Medallion Architecture](https://github.com/Daniel-jcVv/modern-datawarehouse-project)
-> **Production-ready Data Lakehouse with SQL Server and Python.**
-- **Focus:** Scalable architecture for high-performance automation systems.
+### Industrial Process Analyst — ZF TRW
+**May 2018 – May 2021**
+- Cost-saving machining process optimization (+150 units/hour, 5% cost savings) and built Excel dashboards
 
 ---
 
-## 🎓 Certifications
+## Portfolio Projects
 
-- **IBM Data Warehousing Engineer** Professional Certificate
-- **ETL and Data Pipelines** with Shell, Airflow, and Kafka (IBM)
-- **Java Back-End Developer** (Oracle Next Education)
-- **Google Data Analytics** Professional Certificate
+### [End-to-End Inventory ETL Pipeline with AI Dashboard](https://github.com/Daniel-jcVv/inventory-autopilot)
+> Automated inventory health pipeline: dead stock detection, overstock alerts, and demand forecasting from raw ERP exports.
+- **Stack:** Python, pandas, SQL Server, Streamlit, n8n Automation
+- **Live demo:** [inventory-autopilot.streamlit.app](https://inventory-autopilot-3mlc5ryu4wsxppx26jvbqe.streamlit.app/)
+
+### [Fleet Data Pipeline and Cost Reporting](https://github.com/Daniel-jcVv/gps-fleet-analytics)
+> ETL pipeline and interactive dashboard for fleet fuel consumption and route analysis.
+- **Stack:** Python, pandas, SQLite, Streamlit
+
+---
+
+## Education
+
+**B.Eng. in Manufacturing Technologies**
+Universidad Politécnica de Guanajuato, 2015
+
+## Certifications
+
+- **IBM Data Warehousing Engineer** — Coursera, 2024
+- **Google Data Analytics** — Coursera, 2022
+
+## Languages
+
+Spanish: Native | English: Intermediate (B1+, technical reading/writing)
 
 ---
 
 <div align="center">
 
-**"Data Engineering is the foundation. AI Automation is the future."** ⚡
-
-### **Soli Deo Gloria**
-*Ora et labora, ahora*
+### Soli Deo Gloria
+*Ora et labora*
 
 </div>
