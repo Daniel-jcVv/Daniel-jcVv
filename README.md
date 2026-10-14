@@ -1,13 +1,12 @@
 <div align="center">
 
 # Juan Daniel García Belman
-## 🤖 AI Data Automation Engineer | 📊 Data Infrastructure | ⚡ Agentic Workflows
+## Data Engineer & Automation | Lakehouse · ETL · n8n / Airflow · AI-assisted development
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://danieljcvv-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-daniel-garcia-belman-99a298aa)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:danielgb331@outlook.com)
 
-![Status](https://img.shields.io/badge/Status-Actively%20working%20on%20AI%20Automation-brightgreen?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Querétaro,%20México-red?style=flat-square)
 </div>
@@ -16,14 +15,33 @@
 
 ## 👨‍💻 About Me
 
-**AI Data Automation and Data Engineer** with over 4 years of professional experience supporting Fortune 500 clients (Telcel, Citi Banamex).
-Hands-on in pipeline operations, multi-environment deployment, data reconciliation, and metadata governance. Currently building AI automation workflows with n8n and Python and Agentic AI.
+Data Engineer with 4+ years of experience across Fortune 500 clients (Telcel, Citi Banamex) and, today, a multi-brand automotive dealer group.
+I build layered lakehouses (bronze/silver/gold), ETL pipelines orchestrated with n8n and Airflow, and the reporting that runs on top of them:
+validated before load, auditable (run IDs, hashes, maker-checker approvals) and covered by automated tests. I use Claude Code and AI agents daily to build and operate them.
+
+---
+
+## Featured Projects
+
+### [End-to-End Inventory ETL Pipeline with AI Dashboard](https://github.com/Daniel-jcVv/inventory-autopilot)
+> Automated inventory health pipeline: dead stock detection, overstock alerts, and demand forecasting from raw ERP exports.
+- **Stack:** Python, pandas, SQL Server, Streamlit, n8n Automation
+- **Live demo:** [inventory-autopilot.streamlit.app](https://inventory-autopilot-3mlc5ryu4wsxppx26jvbqe.streamlit.app/)
+
+### [Fleet Data Pipeline and Cost Reporting](https://github.com/Daniel-jcVv/gps-fleet-analytics)
+> ETL pipeline and interactive dashboard for fleet fuel consumption and route analysis.
+- **Stack:** Python, pandas, SQLite, Streamlit
+
+### [AI Voice Sales Agent](https://github.com/Daniel-jcVv/ai-voice-sales-agent)
+> AI voice agent for a server components distributor: product recommendations, order tracking and customer support.
+- **Stack:** n8n, ElevenLabs, AI Agents, Docker
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **AI & Automation**
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=flat&logo=python&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF4B4B?style=flat&logo=openai&logoColor=white)
@@ -82,19 +100,6 @@ Hands-on in pipeline operations, multi-environment deployment, data reconciliati
 ### Industrial Process Analyst — ZF TRW
 **May 2018 – May 2021**
 - Cost-saving machining process optimization (+150 units/hour, 5% cost savings) and built Excel dashboards
-
----
-
-## Portfolio Projects
-
-### [End-to-End Inventory ETL Pipeline with AI Dashboard](https://github.com/Daniel-jcVv/inventory-autopilot)
-> Automated inventory health pipeline: dead stock detection, overstock alerts, and demand forecasting from raw ERP exports.
-- **Stack:** Python, pandas, SQL Server, Streamlit, n8n Automation
-- **Live demo:** [inventory-autopilot.streamlit.app](https://inventory-autopilot-3mlc5ryu4wsxppx26jvbqe.streamlit.app/)
-
-### [Fleet Data Pipeline and Cost Reporting](https://github.com/Daniel-jcVv/gps-fleet-analytics)
-> ETL pipeline and interactive dashboard for fleet fuel consumption and route analysis.
-- **Stack:** Python, pandas, SQLite, Streamlit
 
 ---
 
