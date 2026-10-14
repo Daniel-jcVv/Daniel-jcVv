@@ -35,6 +35,11 @@ Hands-on in pipeline operations, multi-environment deployment, data reconciliati
 ![T-SQL](https://img.shields.io/badge/T--SQL-025E8C?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest%20%2B%20Playwright-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 ### **Cloud & DevOps**
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -47,8 +52,15 @@ Hands-on in pipeline operations, multi-environment deployment, data reconciliati
 
 ## Professional Experience
 
+### Data Engineer — Multi-brand Automotive Dealer Group
+**Apr 2026 – Present**
+- Built a layered lakehouse (landing/bronze/silver/gold) from a read-only dealer management system (SQL Server) into PostgreSQL, with idempotent, incremental runs
+- Orchestrated ETL pipelines with n8n (Airflow pilot) for marketing spend, digital KPIs and monthly executive reporting; business logic in versioned Python
+- Implemented audit and lineage controls: run IDs, file hashes, maker-checker approvals and validation before load
+- Set up quality gates with ruff, pre-commit, pytest and Playwright end-to-end tests for Google Apps Script capture forms
+
 ### Freelance AI Automation Projects | *Independent*
-**May 2025 – Present**
+**May 2025 – Apr 2026**
 - AI voice sales agent for hardware distributor — inventory lookup + order tracking 24/7 (n8n, Docker)
 - Automated fuel cost optimizer — scrapes 100+ gas stations, delivers top-3 via dashboard (n8n, Python)
 
